@@ -1,4 +1,7 @@
-# test coverage for  babel-plugin-transform-react-jsx (v6.24.1)  [![npm package](https://img.shields.io/npm/v/npmtest-babel-plugin-transform-react-jsx.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-babel-plugin-transform-react-jsx) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-babel-plugin-transform-react-jsx.svg)](https://travis-ci.org/npmtest/node-npmtest-babel-plugin-transform-react-jsx)
+# npmtest-babel-plugin-transform-react-jsx
+
+#### basic test coverage for  babel-plugin-transform-react-jsx (v6.24.1)  [![npm package](https://img.shields.io/npm/v/npmtest-babel-plugin-transform-react-jsx.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-babel-plugin-transform-react-jsx) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-babel-plugin-transform-react-jsx.svg)](https://travis-ci.org/npmtest/node-npmtest-babel-plugin-transform-react-jsx)
+
 #### Turn JSX into React function calls
 
 [![NPM](https://nodei.co/npm/babel-plugin-transform-react-jsx.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/babel-plugin-transform-react-jsx)
@@ -78,7 +81,8 @@
         "url": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx"
     },
     "scripts": {},
-    "version": "6.24.1"
+    "version": "6.24.1",
+    "bin": {}
 }
 ```
 
